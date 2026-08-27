@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository."
+type: software
+title: "Zero-Shot Diffusion Object Removal"
+version: 1.1.0
+date-released: 2026-08-27
+
+authors:
+  - family-names: "Taghizadeh"
+    given-names: "Arman"
+
+url: "https://github.com/arman-taghizadeh/zero-shot-diffusion-object-removal"
+repository-code: "https://github.com/arman-taghizadeh/zero-shot-diffusion-object-removal"
