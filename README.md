@@ -2,9 +2,23 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arman-taghizadeh/zero-shot-diffusion-object-removal/blob/main/object_removal_demo.ipynb)
 
-This repository contains the implementation accompanying my master's thesis on zero-shot object removal using pretrained diffusion models.
+This repository contains the implementation accompanying the paper
+**Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement**
+and the corresponding master's thesis.
 
 The method removes selected objects from real images without task-specific training or model fine-tuning. It combines automatic image conditioning, inversion-based reconstruction, attention control, latent background preservation, and localized refinement within a pretrained Stable Diffusion model.
+
+## Paper
+
+**Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement**  
+Arman Taghizadeh, Ulf Krumnack, Kai-Uwe Kühnberger
+
+[![arXiv](https://img.shields.io/badge/arXiv-2609.28342-b31b1b.svg)](https://doi.org/10.48550/arXiv.2609.28342)
+
+The paper is available on arXiv:
+
+https://doi.org/10.48550/arXiv.2609.28342
+
 
 ## Method Overview
 
@@ -108,9 +122,15 @@ Random seeds are fixed in the notebook for reproducibility.
 
 ## Citation
 
-If you use this implementation, please cite this GitHub repository.
+If you use this implementation, please cite the associated paper:
 
-GitHub provides citation information through the **Cite this repository**
+**Arman Taghizadeh, Ulf Krumnack, and Kai-Uwe Kühnberger.**
+*Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement.*
+arXiv:2609.28342, 2026.
+
+https://doi.org/10.48550/arXiv.2609.28342
+
+The software itself can also be cited using GitHub's **Cite this repository**
 option, generated from the repository's `CITATION.cff` file.
 
 ## Acknowledgements
