@@ -122,16 +122,14 @@ Random seeds are fixed in the notebook for reproducibility.
 
 ## Citation
 
-If you use this implementation, please cite the associated paper:
+If you use this implementation in your research, please cite the associated paper:
 
-**Arman Taghizadeh, Ulf Krumnack, and Kai-Uwe Kühnberger.**
-*Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement.*
-arXiv:2609.28342, 2026.
-
+**Arman Taghizadeh, Ulf Krumnack, and Kai-Uwe Kühnberger.**  
+*Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement.*  
+arXiv:2609.28342, 2026.  
 https://doi.org/10.48550/arXiv.2609.28342
 
-The software itself can also be cited using GitHub's **Cite this repository**
-option, generated from the repository's `CITATION.cff` file.
+Citation metadata is also provided through the repository's `CITATION.cff` file.
 
 ## Acknowledgements
 
