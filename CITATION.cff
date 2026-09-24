@@ -1,5 +1,20 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite this repository."
+message: "If you use this software, please cite the associated paper."
+
+citation:
+  type: article
+  title: "Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement"
+  authors:
+    - family-names: "Taghizadeh"
+      given-names: "Arman"
+    - family-names: "Krumnack"
+      given-names: "Ulf"
+    - family-names: "Kühnberger"
+      given-names: "Kai-Uwe"
+  year: 2026
+  doi: "10.48550/arXiv.2609.28342"
+  url: "https://doi.org/10.48550/arXiv.2609.28342"
+
 type: software
 title: "Zero-Shot Diffusion Object Removal"
 
@@ -13,18 +28,3 @@ date-released: 2026-09-24
 url: "https://github.com/arman-taghizadeh/zero-shot-diffusion-object-removal"
 repository-code: "https://github.com/arman-taghizadeh/zero-shot-diffusion-object-removal"
 
-references:
-  - type: article
-    title: "Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement"
-    authors:
-      - family-names: "Taghizadeh"
-        given-names: "Arman"
-      - family-names: "Krumnack"
-        given-names: "Ulf"
-      - family-names: "Kühnberger"
-        given-names: "Kai-Uwe"
-    year: 2026
-    url: "https://doi.org/10.48550/arXiv.2609.28342"
-    identifiers:
-      - type: doi
-        value: "10.48550/arXiv.2609.28342"
