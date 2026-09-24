@@ -3,12 +3,28 @@ message: "If you use this software, please cite this repository."
 type: software
 title: "Zero-Shot Diffusion Object Removal"
 
-
 authors:
   - family-names: "Taghizadeh"
     given-names: "Arman"
 
-version: 1.1.0
-date-released: 2026-08-27
+version: 1.0.0
+date-released: 2026-09-24
+
 url: "https://github.com/arman-taghizadeh/zero-shot-diffusion-object-removal"
 repository-code: "https://github.com/arman-taghizadeh/zero-shot-diffusion-object-removal"
+
+references:
+  - type: article
+    title: "Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement"
+    authors:
+      - family-names: "Taghizadeh"
+        given-names: "Arman"
+      - family-names: "Krumnack"
+        given-names: "Ulf"
+      - family-names: "Kühnberger"
+        given-names: "Kai-Uwe"
+    year: 2026
+    url: "https://doi.org/10.48550/arXiv.2609.28342"
+    identifiers:
+      - type: doi
+        value: "10.48550/arXiv.2609.28342"
