@@ -38,7 +38,7 @@ The notebook additionally includes a **no-NTI ablation**, in which the same edit
 
 The complete implementation is provided in:
 
-```text
+
 object_removal_demo.ipynb
 
 The notebook is designed for execution in **Google Colab with a GPU runtime**.
@@ -47,7 +47,7 @@ The notebook is designed for execution in **Google Colab with a GPU runtime**.
 
 The implementation was tested with:
 
-```text
+
 Python 3.13.15
 PyTorch 2.11.0+cu128
 torchvision 0.26.0+cu128
@@ -61,13 +61,13 @@ accelerate 1.14.0
 safetensors 0.8.0
 tqdm 4.67.3
 LPIPS 0.1.4
-```
+
 
 Additional Python dependencies are listed in:
 
-```text
+
 requirements.txt
-```
+
 
 The implementation uses the following pretrained models:
 
@@ -132,13 +132,16 @@ the terms of their original sources.
 
 ## Repository Structure
 
-```text
+
 .
+├── example input images/
 ├── object_removal_demo.ipynb
 ├── requirements.txt
+├── CITATION.cff
+├── LICENSE
 ├── README.md
 └── .gitignore
-```
+
 
 ## Citation
 
