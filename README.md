@@ -47,7 +47,7 @@ The notebook is designed for execution in **Google Colab with a GPU runtime**.
 
 The implementation was tested with:
 
-
+```text
 Python 3.13.15
 PyTorch 2.11.0+cu128
 torchvision 0.26.0+cu128
@@ -61,7 +61,7 @@ accelerate 1.14.0
 safetensors 0.8.0
 tqdm 4.67.3
 LPIPS 0.1.4
-
+```
 
 Additional Python dependencies are listed in:
 
