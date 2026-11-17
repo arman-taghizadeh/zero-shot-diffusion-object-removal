@@ -132,7 +132,7 @@ the terms of their original sources.
 
 ## Repository Structure
 
-
+```text
 .
 ├── example input images/
 ├── object_removal_demo.ipynb
@@ -141,7 +141,7 @@ the terms of their original sources.
 ├── LICENSE
 ├── README.md
 └── .gitignore
-
+```
 
 ## Citation
 
