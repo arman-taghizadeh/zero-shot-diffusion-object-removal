@@ -135,6 +135,7 @@ the terms of their original sources.
 ```text
 .
 ├── example input images/
+│   └── IMAGE_SOURCES.md
 ├── object_removal_demo.ipynb
 ├── requirements.txt
 ├── CITATION.cff
