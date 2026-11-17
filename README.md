@@ -150,5 +150,10 @@ the copyright holder.
 This software license applies to the repository code and is independent of the
 license governing the associated research article.
 
+The repository license applies only to the original source code.
+Third-party input images, datasets, pretrained models, and other
+third-party materials are not covered by this license and remain
+subject to their respective copyright and licensing terms.
+
 Pretrained models, model weights, third-party libraries, and other third-party
 materials remain subject to their respective licenses and terms of use.
