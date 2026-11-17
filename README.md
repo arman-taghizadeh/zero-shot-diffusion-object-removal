@@ -139,13 +139,16 @@ Please refer to the corresponding original projects and publications for their r
 
 ## License
 
-This repository is licensed under the
+Except where otherwise noted, the original source code in this repository is
+licensed under the PolyForm Noncommercial License 1.0.0.
 [PolyForm Noncommercial License 1.0.0](LICENSE).
 
-The software may be used, modified, and distributed only for
-noncommercial purposes as permitted by the license. Commercial use is
-not permitted without separate permission from the copyright holder.
+The software may be used, modified, and distributed for noncommercial purposes
+as permitted by the license. Commercial use requires separate permission from
+the copyright holder.
 
-The pretrained models, model weights, and third-party libraries used by
-this implementation remain subject to their respective licenses and
-terms of use.
+This software license applies to the repository code and is independent of the
+license governing the associated research article.
+
+Pretrained models, model weights, third-party libraries, and other third-party
+materials remain subject to their respective licenses and terms of use.
